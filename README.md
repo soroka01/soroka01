@@ -16,11 +16,3 @@
 <h3 align="left">Statistic: </h3>
 
   <img src="https://github-readme-stats.vercel.app/api?username=soroka01&hide=prs&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-
----
-
-<a href="https://komarev.com/ghpvc/?username=soroka01">
-  <img align="right" src="https://komarev.com/ghpvc/?username=soroka01&label=Profile%20views&color=0e75b6&style=plastic" alt="Profile visitor" />
-</a>
-
-[![wakatime](https://wakatime.com/badge/user/05012bc0-5365-414f-b99b-ed572c93478c.svg)](https://wakatime.com/@05012bc0-5365-414f-b99b-ed572c93478c)
