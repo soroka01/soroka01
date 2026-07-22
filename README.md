@@ -2,58 +2,28 @@
   <img src="./src/profile-banner.gif" alt="Animated purple profile banner for Timofey Soroka: Python, Telegram and automation" width="100%" />
 </p>
 
-<p align="center">
-  <a href="https://t.me/drakeisxsdog">
-    <img src="https://img.shields.io/badge/Telegram-@drakeisxsdog-229ED9?style=for-the-badge&logo=telegram&logoColor=white" alt="Contact Timofey on Telegram" />
-  </a>
-  <img src="https://img.shields.io/badge/Focus-Python%20%26%20Automation-9662D4?style=for-the-badge" alt="Focus: Python and automation" />
-</p>
+<h1 align="center">Hi <img src="./src/wave.gif" width="30px" alt="wave">, I'm Timofey Soroka</h1>
+<h3 align="center">Python & Telegram enjoyer</h3>
 
-## About me
+- ✨ I am currently **exploring new ways to create effective, scalable and creative solutions.**
 
-I am **Timofey Soroka**, a Python developer focused on practical automation, Telegram products, and API-driven tools. I like turning a messy manual workflow into a clear interface that reliably does one job well.
+- 👨‍💻 Telegram: **[@drakeisxsdog](https://t.me/drakeisxsdog)**
 
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <h3>🤖 Telegram products</h3>
-      Bots with clear flows, inline controls, and a calm chat UX.
-    </td>
-    <td width="33%" valign="top">
-      <h3>⚙️ Automation</h3>
-      Monitoring, exports, notifications, and repeatable background workflows.
-    </td>
-    <td width="33%" valign="top">
-      <h3>🔌 APIs & data</h3>
-      Python clients, integrations, persistence, and useful operational data.
-    </td>
-  </tr>
-</table>
+<h3 align="left">Languages and Tools:</h3>
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=py,fastapi,postgresql,sqlite,docker,cs" height="35" alt="Backend languages, frameworks and tools">
+</div>
 
-## Selected work
+####
 
-| Project | What it does |
-| --- | --- |
-| [🤖 TgBot-Bybot-control](https://github.com/soroka01/TgBot-Bybot-control) | Telegram control panel for a Bybit futures account, with live data, risk controls, AI analysis, alerts, and a one-message UI. |
-| [🎮 HourBooster](https://github.com/soroka01/HourBooster) | A Telegram-controlled Steam hour booster with support for multiple accounts. |
-| [👤 Steam-Profile-Monitor](https://github.com/soroka01/Steam-Profile-Monitor) | Python monitor for Steam-profile changes and notifications. |
-| [🎁 Telegram NFT Gifts Monitoring](https://github.com/soroka01/Telegram-nft-gifts-monitoring) | Monitoring tooling for Telegram NFT gifts. |
+<h3 align="left">Statistic:</h3>
 
-## Toolkit
-
-<p>
-  <img src="https://skillicons.dev/icons?i=py,fastapi,postgresql,sqlite,docker,git,github&theme=dark" alt="Python, FastAPI, PostgreSQL, SQLite, Docker, Git and GitHub" />
-</p>
-
-## Building now
-
-- 🧠 More reliable automation with useful alerts instead of noise.
-- 🧩 Telegram interfaces that keep a chat tidy and make the next action obvious.
-- 📈 Tools where live data, safeguards, and a simple UX matter as much as the code.
+<img src="https://github-readme-stats.vercel.app/api?username=soroka01&hide=prs&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="GitHub statistics">
 
 ---
 
-<p align="center">
-  <i>Build practical things. Keep the interface calm. Ship improvements.</i><br />
-  <a href="https://t.me/drakeisxsdog">Say hi on Telegram</a>
-</p>
+<a href="https://komarev.com/ghpvc/?username=soroka01">
+  <img align="right" src="https://komarev.com/ghpvc/?username=soroka01&label=Profile%20views&color=9662d4&style=plastic" alt="Profile visitor count">
+</a>
+
+[![WakaTime](https://wakatime.com/badge/user/05012bc0-5365-414f-b99b-ed572c93478c.svg)](https://wakatime.com/@05012bc0-5365-414f-b99b-ed572c93478c)
