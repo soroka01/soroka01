@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="./src/profile-banner.gif" alt="Animated purple profile banner for Timofey Soroka: Python, Telegram and automation" width="100%" />
-</p>
-
 <h1 align="center">Hi <img src="./src/wave.gif" width="30px" alt="wave">, I'm Timofey Soroka</h1>
 <h3 align="center">Python & Telegram enjoyer</h3>
 
