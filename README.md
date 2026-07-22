@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="./src/profile-banner.svg" alt="Timofey Soroka — Python, Telegram and automation" width="100%" />
+  <img src="./src/profile-banner.gif" alt="Animated purple profile banner for Timofey Soroka: Python, Telegram and automation" width="100%" />
 </p>
 
 <p align="center">
   <a href="https://t.me/drakeisxsdog">
     <img src="https://img.shields.io/badge/Telegram-@drakeisxsdog-229ED9?style=for-the-badge&logo=telegram&logoColor=white" alt="Contact Timofey on Telegram" />
   </a>
-  <img src="https://img.shields.io/badge/Focus-Python%20%26%20Automation-8B5CF6?style=for-the-badge" alt="Focus: Python and automation" />
+  <img src="https://img.shields.io/badge/Focus-Python%20%26%20Automation-9662D4?style=for-the-badge" alt="Focus: Python and automation" />
 </p>
 
 ## About me
