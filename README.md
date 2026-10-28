@@ -10,12 +10,12 @@
     <tr>
       <td>
         <img
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=soroka01&layout=compact&theme=transparent&text_color=cdd6f4&hide_border=true&icon_color=cba6f7&title_color=94e2d5&langs_count=8"
+          src="./profile/top-langs.svg"
           alt="Most Used Languages"
         />
         <br />
         <img
-          src="https://github-readme-stats.vercel.app/api?username=soroka01&show_icons=true&theme=transparent&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5&hide_border=true&rank_icon=percentile"
+          src="./profile/stats.svg"
           alt="GitHub Stats"
         />
       </td>
